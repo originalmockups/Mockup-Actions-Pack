@@ -6,7 +6,7 @@ This repo contains all the latest actions (.atn) used by the mockups published o
 
 Currently to speed up the customization process of the mockups we recommend you the use of **Photoshop Actions**, please follow these steps in order to edit the mockups using Actions:
 
-1. Download the **[Latest Actions Pack](https://github.com/originalmockups/Mockups-Actions-Pack/releases/latest)**
+1. Download the **[Latest Actions Pack](https://github.com/originalmockups/Mockup-Actions-Pack/releases/latest)**
 2. Install the actions by double clicking to the **Mockups Action Pack.atn** file
 3. Open the Mockup in Photoshop
 4. Place your own design into the *Blue Layers*, they are *Smart Objects* so you can edit its contents doing *Right Click / Edit Contents*.
