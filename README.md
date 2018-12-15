@@ -6,12 +6,20 @@ This repo contains all the latest actions (.atn) used by the mockups published o
 
 Currently to speed up the customization process of the mockups we recommend you the use of **Photoshop Actions**, please follow these steps in order to edit the mockups using Actions:
 
-1. Download the **[Latest Actions Pack](https://github.com/originalmockups/Mockup-Actions-Pack/releases/latest)**
+1. Download the **[Latest Actions Pack][1]**. Do click to the `Source code (.zip)` button to start the download.
 2. Install the actions by double clicking to the **Mockups Action Pack.atn** file
 3. Open the Mockup in Photoshop
 4. Place your own design into the *Blue Layers*, they are *Smart Objects* so you can edit its contents doing *Right Click / Edit Contents*.
 5. Hide the *Guide* layer, Save, close the current document and continue with the next *Blue Layer* if there are more ones.
 6. Open the Actions Panel (Window / Actions) and play the related action which is described on the README file or inside the Mockup PSD file.
+
+### How to update the action pack
+
+The easiest way to update the action pack is by deleteting the old set and installing the new one.
+
+1. Locate and remove the old action set from the *Action Panel* of Photoshop.
+2. Download the **[Latest Actions Pack][1]**. Do click to the `Source code (.zip)` button to start the download.
+3. Install the actions by double clicking to the **Mockups Action Pack.atn** file.
  
 ## I don't want to use the actions
 
@@ -30,3 +38,5 @@ I hope these instructions has been helpful
 This error happens when Photoshop arbitrarily rename the Smart Objects causing the loss of the link between the Mockup file and the Actions. It is due to the Photoshop temporary directory is full. So easiest way to fix this is closing Photoshop without save the Mockup in order to free up that directory.
 
 If you accidentally saved the changes with the bad names, you can fix it manually deleting the number added at the end of the layer arbitrarily by Photoshop and then run de action again.
+
+[1]:https://github.com/originalmockups/Mockup-Actions-Pack/releases/latest
